@@ -8,3 +8,10 @@ Studying influcence on twitter through a graph theoretic perspective.
     - api secret key
     - access token
     - access token secret
+
+
+## TODO
+- Store tweets in database?
+- add igraph support
+- decide nodes, edges
+- decide how to associate objects
